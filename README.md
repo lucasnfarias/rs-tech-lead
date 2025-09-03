@@ -37,3 +37,21 @@ Eduacational repository related to Rocketseat Tech Lead Course
 - Define quality and technical patterns (e.g. variable naming, big-o, tests, ...)
 - Positive culture: see code review as an opportunity to learn and collaborate and not to criticize. It's ok to make mistake and learn from them
 - Code review is present on all layers: planning, testing, refinement, implementation and maintanance
+
+- **How to make it efficient:**
+  - Set the quality standard, scalability and security
+  - Keys Points:
+    - Readability and maintainability
+      - e.g.separate responsabilities (checkout, payment, stock, ...) 
+    - Performance
+      - e.g. async loops forEach to Promise.all, db transactions
+    - Security
+      - e.g. input data validation, db transactions
+    - Scalability
+      - e.g. loops, big-o, parallelism, ... 
+    - Testability
+      - e.g. automated tests
+  - Positive feedback culture
+    - Encourage feedback
+    - Focus on continuous learning
+    - Safe environment  
