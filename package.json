@@ -1,0 +1,25 @@
+{
+  "name": "rs-tech-lead",
+  "version": "1.0.0",
+  "description": "Eduacational repository related to Rocketseat Tech Lead Course",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "prepare": "husky"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lucasnfarias/rs-tech-lead.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/lucasnfarias/rs-tech-lead/issues"
+  },
+  "homepage": "https://github.com/lucasnfarias/rs-tech-lead#readme",
+  "devDependencies": {
+    "@commitlint/cli": "^19.8.1",
+    "@commitlint/config-conventional": "^19.8.1",
+    "husky": "^9.1.7"
+  }
+}
