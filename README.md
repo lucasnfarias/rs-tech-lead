@@ -54,4 +54,15 @@ Eduacational repository related to Rocketseat Tech Lead Course
   - Positive feedback culture
     - Encourage feedback
     - Focus on continuous learning
-    - Safe environment  
+    - Safe environment
+
+### Conventional Commits
+- https://www.conventionalcommits.org/en/v1.0.0/
+- How to structure a commit message
+- Why use it?
+  - Automatically generating CHANGELOGs.
+  - Automatically determining a semantic version bump (based on the types of commits landed).
+  - Communicating the nature of changes to teammates, the public, and other stakeholders.
+  - Triggering build and publish processes.
+  - Making it easier for people to contribute to your projects, by allowing them to explore a more structured commit history.
+- Enforce and verify on your project with https://commitlint.js.org/   
