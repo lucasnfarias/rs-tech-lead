@@ -1,6 +1,6 @@
 {
   "name": "rs-tech-lead",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "description": "Eduacational repository related to Rocketseat Tech Lead Course",
   "main": "index.js",
   "scripts": {
